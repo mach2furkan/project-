@@ -1,7 +1,9 @@
-#include <iostream>
-using namespace std;
 
-int main() {
+    #include <iostream>
+
+    using namespace std;
+
+    int main() {
     double height, weight, coffeeAmount;
     int age;
     char sex;
