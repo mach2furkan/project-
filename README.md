@@ -36,7 +36,6 @@ int main() {
         cout << "Your coffee intake is within the recommended limits.\n";
     }
 
-cout<< "this programme created by furkan askin "<<endl;
 
 
 
